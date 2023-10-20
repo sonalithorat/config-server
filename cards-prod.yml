@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Hey, welcome these are related prod APIs"
+  message: "Hey, welcome sonali"
   contactDetails:
     name: "Sandra Harald - Product Owner"
     email: "sandra@eazybank.com"
